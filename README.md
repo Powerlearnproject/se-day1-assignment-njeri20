@@ -4,7 +4,6 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-
 Explain what software engineering is and discuss its importance in the technology industry.
 Software Engineering is the application of engineering principles to design, develop, maintain, evaluate and test software for scalable solutions. 
 Software Engineering is important as it provides a systematic approach to software development, it produces software that is reliable, efficient and allows the expansion of growth with various updates. 
@@ -53,11 +52,16 @@ The types of testing include:
 1. Unit testing- Tests individual components or modules of the software in isolation
 2. Integration testing- Tests the interactions between different modules or components
 3. System testing- Tests the complete integrated system to ensure it meets overall requirements
-4. User-Accepatance testing- Tests the software from the end-users's perspective to ensure it meets their needs and expectations 
+4. User-Accepatance testing- Tests the software from the end-users's perspective to ensure it meets their needs and expectations.
+   
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering is the art and science of crafting effective instructions to produce desired outputs ftom AI models. 
+The importance of prommt engineering is - to provide AI with necessary context and instructions to generate accurate and relevant responses, promote increased efficency and productivity, improved control and predictablity and unlock advanced capabilities. 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Tell me about the history of Singapore's economic growth till date.
+
+The prompt bridges the gap between human intent and AI capabilities enabling the user to harness powerfull tools. 
