@@ -21,24 +21,39 @@ The phases include:
 1. Planning- Defining the project's scope, goals and feasibility
 2. Requirements Analysis - focuses on gathering and documenting the detailed requirements of the software
 3. Design- the software's architecture and design are created
-4. Coding- this is where the actual software code 
-
+4. Coding- this is where the actual software code is written based on the design specifications
+5. Testing- This involves rigourously testing the software to identify and fix bugs to ensure requirements are met.
+6. Deployment- involves releasing the software to the users
+7. Maintenance- The ongoing process includes providing support, fixing bugs and updating the software that has been deployed
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+Waterfall methodology is linear and sequential. It emphasises on thorough following one phase after the other where there is planning and documentation upfront. 
+An appropriate scenario would be for large scale projects such as healthcare systems.
+Agile Methodology is more flexible and adaptable. It is effective where development occurs in short cycles. Suited fr projects with evolving requirements.
+An appropriate scenario is a project with high customer involvement such as web applications. 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+A software developer is plays the role and responsibility of writing, testing and maintaing software code. They apply their strong problem-solving and analytical skills in a team
+A Quality assurance Engineer designs and executes test plans and test cases. They ensure software quality and adhereance to requirements.
+A Project manager plans and manages software development projects. They facilitate team communication and remove any setbacks. 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+IDEs consolidate various development tools into a single interface, streamlining workflows. They eliminate the need to switch between multiple applications saving time and effort.They provide a comprehensive and efficient development environment. An example is Visual Studio
+VCS enables multiple developers to work on the same codebase simultaneously without conflict. They enhance team collaboration and code management ensuring effective workflow. An example is Git.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+1. Keeping up with technological advancements
+2. Technical debt
+3. Bug fixing and debugging
+These challenges can be addressed through technical expertise, problem solving skills and effective communication among team members.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
-
+The importance of testing is to focus on validating that the software performs its inteded functions correctly. It verifies that the software meets the specified requirements. 
+The types of testing include:
+1. Unit testing- Tests individual components or modules of the software in isolation
+2. Integration testing- Tests the interactions between different modules or components
+3. System testing- Tests the complete integrated system to ensure it meets overall requirements
+4. User-Accepatance testing- Tests the software from the end-users's perspective to ensure it meets their needs and expectations 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
